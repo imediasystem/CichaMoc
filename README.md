@@ -1,5 +1,6 @@
 ## 🔥 Project Name - CICHA MOC
-See the live version of [CICHA MOC](https://imediasystem.github.io/CichaMoc/) ↗️
+
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/CichaMoc/)
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
