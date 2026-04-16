@@ -9,6 +9,12 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 &nbsp;
 
+## 📚 Key Features
+* **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
+* **Video-Centric Layout** – Optimized for high-quality video backgrounds and portfolios.
+* **Performance Optimized** – Fast loading times for a seamless user experience.
+&nbsp;
+
 ## 💿 Installation
 Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
 &nbsp;
