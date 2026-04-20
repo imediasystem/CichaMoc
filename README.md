@@ -1,3 +1,6 @@
+<img width="1920" height="1280" alt="geralt-family-3317497_1920" src="https://github.com/user-attachments/assets/435db56f-ca0b-4f2f-92e9-cd4b7681fdb8" />
+
+
 ## 🔥 Project Name - CICHA MOC
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/CichaMoc/)
